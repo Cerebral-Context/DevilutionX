@@ -1,7 +1,41 @@
 <p align="center">
   <img width="560" height="144" alt="image" src="https://github.com/user-attachments/assets/7ac73801-ef7b-4cc1-8442-a191a2a0a1ce" />
 </p>
+# DevilutionX for Nintendo Switch 2
 
+**Unofficial experimental Nintendo Switch 2 build**
+
+DevilutionX has been successfully compiled and launched on Nintendo Switch 2 using the libounce toolchain and kaiHEN homebrew environment.
+
+Diablo gameplay has been confirmed working on real Nintendo Switch 2 hardware.
+
+## Download
+
+**[Download DevilutionX for Nintendo Switch 2](https://github.com/Cerebral-Context/DevilutionX/releases/tag/Switch-2-port)**
+
+## Installation and building
+
+**[Switch 2 Installation and Build Instructions](BUILD-SWITCH2.md)**
+
+## Current compatibility
+
+- Native Switch 2 `.nro` successfully built.
+- Diablo gameplay confirmed working.
+- Further testing of controls, audio, saving, and Hellfire is ongoing.
+
+## Credits
+
+This build is based on the original [DevilutionX project](https://github.com/diasurgical/devilutionX).
+
+Full credit goes to the original DevilutionX and Devilution developers, along with the devkitPro, libounce, kaiHEN, and SDL contributors.
+
+This is an unofficial community build and is not affiliated with the original DevilutionX developers.
+
+---
+
+## Original DevilutionX Documentation
+
+The original project's documentation is preserved below.
 ---
 
 [![Discord Channel](https://img.shields.io/discord/518540764754608128?color=%237289DA&logo=discord&logoColor=%23FFFFFF)](https://discord.gg/devilutionx-518540764754608128)
