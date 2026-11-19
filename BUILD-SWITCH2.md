@@ -18,17 +18,16 @@ This unofficial build was successfully compiled using ounce-devkit and libounce 
 ## Installation
 
 1. Download `devilutionx.nro` from the Releases page.
-2. Create `/switch/devilutionx/` on your SD card.
+2. Create `/switch/` on your SD card.
 3. Copy the `.nro` into that directory.
-4. Copy `DIABDAT.MPQ` from your legally obtained Diablo installation.
-5. For Hellfire, also copy `hellfire.mpq`, `hfmonk.mpq`, `hfmusic.mpq`, and `hfvoice.mpq`.
+4. Copy `DIABDAT.MPQ` from your legally obtained Diablo installation into same folder.
+5. For Hellfire, also copy `hellfire.mpq`, `hfmonk.mpq`, `hfmusic.mpq`, and `hfvoice.mpq` into same folder.
 6. Launch DevilutionX through the kaiHEN homebrew menu.
 
 Your SD card should look like this:
 
 ```text
 switch/
-└── devilutionx/
     ├── devilutionx.nro
     ├── DIABDAT.MPQ
     ├── hellfire.mpq
